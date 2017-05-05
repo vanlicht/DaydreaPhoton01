@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaydreamPhoton01.Plugins", "DaydreamPhoton01.Plugins.csproj", "{20CFCF70-E148-4014-271E-797C34135841}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaydreamPhoton01", "DaydreamPhoton01.csproj", "{179E5601-C9FD-A837-18A6-4F11C3EC75B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaydreamPhoton01.Editor", "DaydreamPhoton01.Editor.csproj", "{A145D86E-F7A5-4C73-8CD1-8EA32636FA15}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CFCF70-E148-4014-271E-797C34135841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CFCF70-E148-4014-271E-797C34135841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CFCF70-E148-4014-271E-797C34135841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CFCF70-E148-4014-271E-797C34135841}.Release|Any CPU.Build.0 = Release|Any CPU
 		{179E5601-C9FD-A837-18A6-4F11C3EC75B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{179E5601-C9FD-A837-18A6-4F11C3EC75B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{179E5601-C9FD-A837-18A6-4F11C3EC75B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
