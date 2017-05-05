@@ -102,12 +102,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Content\Scripts\CommManager.cs" />
-    <Compile Include="Assets\Content\Scripts\Launcher.cs" />
     <Compile Include="Assets\Content\Scripts\NetworkPlayer.cs" />
-    <Compile Include="Assets\Content\Scripts\PlayerNameInputField.cs" />
     <Compile Include="Assets\Content\Scripts\TGameManager.cs" />
+    <Compile Include="Assets\Content\Scripts\TLauncher.cs" />
     <Compile Include="Assets\Content\Scripts\TPlayerController.cs" />
+    <Compile Include="Assets\Content\Scripts\TPlayerNameInputField.cs" />
     <Compile Include="Assets\Content\Scripts\TestButton.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
